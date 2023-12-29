@@ -9,6 +9,6 @@ Delta Lake with SCD 2.ipynb: The Databricks notebook used for data processing at
 scd_2_demo.zip: Contains sample customer data 
 
 ## Prerequisites
-Active Azure subscription with access to Azure Databricks and Azure Data Lake Gen2.
-Databricks Workspace with Unity Catalog Enabled.
-Familiarity with Python, Spark, SQL, and basic data engineering concepts.
+- Active Azure subscription with access to Azure Databricks and Azure Data Lake Gen2.
+- Databricks Workspace with Unity Catalog Enabled.
+- Familiarity with Python, Spark, SQL, and basic data engineering concepts.
